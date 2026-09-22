@@ -1,203 +1,314 @@
 <div align="center">
 
-# `TRISTAN MELLET`
+# TRISTAN MELLET
 
-### CYBERSECURITY · CLOUD · INFRASTRUCTURE · AUTOMATION
+### CYBERSECURITY × CLOUD × INFRASTRUCTURE × AUTOMATION × AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=NETWORK+%26+SECURITY+STUDENT;AZURE+%7C+MICROSOFT+365+%7C+LINUX;NETWORKING+%7C+CYBERSECURITY+%7C+INFRASTRUCTURE;BUILDING+%7C+BREAKING+%7C+SECURING+SYSTEMS" alt="Typing SVG" />
+`STUDENT` · `BUILDER` · `PROBLEM SOLVER` · `ALWAYS LEARNING`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TristanMellet-181717?style=for-the-badge\&logo=github)](https://github.com/TristanMellet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan%20Mellet-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=TristanMellet\&style=for-the-badge\&color=00ff9c)](https://github.com/TristanMellet)
+> **Build. Automate. Secure. Improve. Repeat.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-TRISTANMELLET-050B14?style=for-the-badge&logo=github&logoColor=00FFB3)](https://github.com/TristanMellet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TRISTAN_MELLET-050B14?style=for-the-badge&logo=linkedin&logoColor=00C8FF)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=TristanMellet&style=for-the-badge&color=00FFB3)](https://github.com/TristanMellet)
 
 </div>
 
 ---
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 ## `> whoami`
 
-```bash
+```text
 tristan@github:~$ ./profile.sh
 
-[+] Name        : Tristan Mellet
-[+] Focus       : Cybersecurity & Network Security
-[+] Cloud       : Microsoft Azure
-[+] Infrastructure: Microsoft 365 / DNS / Email
-[+] Automation  : PowerShell / Python / Bash
-[+] Development : HTML / CSS / JavaScript
-[+] DevOps      : GitHub Actions / CI/CD
-[+] Environment : Windows / Linux
+╔══════════════════════════════════════════════╗
+║             TRISTAN // OPS                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  NAME          Tristan Mellet               ║
+║  FOCUS         Cybersecurity                 ║
+║  CLOUD         Microsoft Azure              ║
+║  NETWORKS      Infrastructure & Security    ║
+║  AUTOMATION    PowerShell / Python / Bash   ║
+║  DEVELOPMENT   HTML / CSS / JavaScript      ║
+║  AI            AI Tools / Automation / LLMs ║
+║  OS            Windows / Linux              ║
+║                                              ║
+║  STATUS        ● ONLINE                      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+// FOCUS
+┌──────────────────────────────┐
+│                              │
+│  ◉ CYBERSECURITY             │
+│    Defensive security        │
+│    Network security          │
+│    Security labs             │
+│                              │
+│  ◉ AZURE & CLOUD             │
+│    Infrastructure            │
+│    Identity                  │
+│    Automation                │
+│                              │
+│  ◉ AI & AUTOMATION           │
+│    AI-assisted workflows     │
+│    APIs & integrations       │
+│    Productivity systems      │
+│                              │
+│  ◉ NETWORKING                │
+│    TCP/IP                    │
+│    DNS                       │
+│    Infrastructure            │
+│                              │
+└──────────────────────────────┘
+// SYSTEM ARCHITECTURE
+                         ┌──────────────────────┐
+                         │       TRISTAN        │
+                         │       // OPS         │
+                         └──────────┬───────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+        ┌───────────┐        ┌─────────────┐       ┌────────────┐
+        │ SECURITY  │        │    CLOUD    │       │     AI     │
+        └─────┬─────┘        └──────┬──────┘       └─────┬──────┘
+              │                     │                     │
+              ▼                     ▼                     ▼
+        Networking              Azure                Automation
+        Linux                   M365                  APIs
+        Security                DNS                   LLMs
+        Infrastructure          Identity              Workflows
+              │                     │                     │
+              └─────────────────────┼─────────────────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │    REAL PROJECTS     │
+                         │                      │
+                         │  BUILD → TEST →      │
+                         │  DEPLOY → SECURE     │
+                         └──────────────────────┘
+// TECH STACK
+<table> <tr> <td width="25%" valign="top">
+☁️ CLOUD
 
-[+] Status      : ONLINE
-```
+</td> <td width="25%" valign="top">
+🔐 SECURITY
 
-I'm a **Network & Security student** interested in cybersecurity, cloud infrastructure, networking and automation.
+</td> <td width="25%" valign="top">
+⚙️ DEVELOPMENT
 
-I enjoy taking systems apart, understanding how they work, securing them, and putting them back together better.
+</td> <td width="25%" valign="top">
+🤖 AI
 
----
+</td> </tr> </table>
+// FEATURED PROJECTS
+AZURE
+   │
+   ├── DNS
+   ├── Static Web Apps
+   │
+   ▼
+MICROSOFT 365
+   │
+   ├── Exchange
+   ├── Mailboxes
+   └── Security
+   │
+   ▼
+EMAIL SECURITY
+   │
+   ├── SPF
+   ├── DKIM
+   └── DMARC
+🔐 SECURITY LAB
+NETWORKING
+    ↓
+LINUX
+    ↓
+SECURITY
+    ↓
+MONITORING
+    ↓
+AUTOMATION
+🤖 AI TOOLKIT
+Building tools and workflows that use AI to:
 
-## `// CURRENTLY BUILDING`
+ANALYSE
+   ↓
+AUTOMATE
+   ↓
+INTEGRATE
+   ↓
+IMPROVE
+// ACRUSURE CASE STUDY
+                         BEFORE
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  [01]  CLOUD INFRASTRUCTURE                             │
-│        Azure / Microsoft 365 / DNS                      │
-│                                                         │
-│  [02]  CYBERSECURITY                                   │
-│        Network security / Linux / security labs         │
-│                                                         │
-│  [03]  AUTOMATION                                      │
-│        PowerShell / Python / Azure CLI                  │
-│                                                         │
-│  [04]  WEB & DEVOPS                                    │
-│        GitHub Actions / CI/CD / Azure Static Web Apps   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+                    ┌──────────────┐
+                    │   LEGACY     │
+                    │   HOSTING    │
+                    └──────┬───────┘
+                           │
+                 ┌─────────┴─────────┐
+                 │                   │
+              WEBSITE              EMAIL
+                 │                   │
+                 └─────────┬─────────┘
+                           │
+                           ▼
 
----
+                         MIGRATION
 
-# `// TECH STACK`
+                    DNS + SECURITY
+                           │
+                           ▼
+                    AZURE + M365
+                           │
+                           ▼
 
-### ☁️ Cloud & Infrastructure
+                         AFTER
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-0F172A?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+        ┌─────────────────────────────────────┐
+        │                                     │
+        │              AZURE                  │
+        │                                     │
+        │  DNS ────────┐                     │
+        │               │                     │
+        │  Static Web ──┤                     │
+        │               │                     │
+        └───────────────┼─────────────────────┘
+                        │
+                        ▼
+                ┌───────────────┐
+                │ MICROSOFT 365 │
+                │               │
+                │ Exchange      │
+                │ Mailboxes     │
+                │ Security      │
+                └───────────────┘
+// AI × ME
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                     AI IS A TOOL                             │
+│                                                              │
+│              NOT A REPLACEMENT FOR THINKING                  │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  LEARN        →        BUILD        →        AUTOMATE         │
+│                                                              │
+│  Research              Code                  Workflows        │
+│  Analyse               Prototype             APIs             │
+│  Experiment            Deploy                Agents           │
+│  Understand            Improve                Productivity     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+// CURRENT OPERATIONS
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [01] CYBERSECURITY                                          │
+│      ████████████████████░░░░                                │
+│                                                              │
+│  [02] AZURE / CLOUD                                          │
+│      ██████████████████░░░░░                                 │
+│                                                              │
+│  [03] NETWORKING                                             │
+│      ████████████████░░░░░░                                  │
+│                                                              │
+│  [04] AUTOMATION                                             │
+│      ███████████████░░░░░░░                                  │
+│                                                              │
+│  [05] AI                                                     │
+│      ██████████████░░░░░░░░                                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-### 🔐 Security & Networking
+// CURRENT OBJECTIVES
+[01] ████████████████████  Complete BSc Network & Security
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-1F2937?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+[02] ██████████████████░░  Expand Azure & Cloud Skills
 
-### 💻 Development
+[03] █████████████████░░░  Build Cybersecurity Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+[04] ████████████████░░░░  Develop Networking Labs
 
----
+[05] ███████████████░░░░░  Automate Infrastructure
 
-# `// FEATURED PROJECT`
+[06] ██████████████░░░░░░  Build AI-powered Workflows
 
-## 🛡️ Acrusure Infrastructure Migration
+[07] ████████████░░░░░░░░  Continue Certifications
 
-**Real-world business infrastructure project**
-
-```text
-                         ┌─────────────────┐
-                         │     USERS       │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │     MICROSOFT 365       │
-                    │                         │
-                    │ Exchange Online         │
-                    │ Shared Mailboxes        │
-                    │ Authentication          │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       AZURE DNS         │
-                    │                         │
-                    │ MX / SPF / DKIM / DMARC │
-                    │ CNAME / DNS Management   │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │     AZURE WEBSITE       │
-                    │                         │
-                    │ Static Web Apps         │
-                    │ GitHub Actions           │
-                    │ CI/CD                   │
-                    └─────────────────────────┘
-```
-
-### What I worked with
-
-* Microsoft 365 / Exchange Online
-* Azure DNS
-* Azure Static Web Apps
-* GitHub Actions
-* DNS migration
-* MX / SPF / DKIM / DMARC
-* Email authentication
-* Business email infrastructure
-* Website deployment
-* Contact-form email delivery
-* Domain configuration
-
-> **Objective:** Move business infrastructure away from legacy hosting while improving reliability, security and maintainability.
-
----
-
-# `// GITHUB ACTIVITY`
-
+// GITHUB TELEMETRY
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TristanMellet&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanMellet&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff" height="180"/>
 
 </div>
+// LEARNING PROTOCOL
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│        LEARN                                                │
+│          │                                                  │
+│          ▼                                                  │
+│        BUILD ───────────────┐                               │
+│          │                  │                               │
+│          ▼                  ▼                               │
+│        BREAK              TEST                              │
+│          │                  │                               │
+│          └────────┬─────────┘                               │
+│                   │                                         │
+│                   ▼                                         │
+│                 FIX                                         │
+│                   │                                         │
+│                   ▼                                         │
+│                SECURE                                       │
+│                   │                                         │
+│                   ▼                                         │
+│                DEPLOY                                       │
+│                   │                                         │
+│                   ▼                                         │
+│               DOCUMENT                                      │
+│                   │                                         │
+│                   └──────────────→ REPEAT                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+// PRINCIPLES
+01  Understand the system before changing it.
 
----
+02  Automate repetitive work.
 
-# `// CONTRIBUTION MATRIX`
+03  Security should be designed in, not added later.
 
-<div align="center">
+04  Build real projects instead of only collecting tutorials.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TristanMellet&theme=github-compact&hide_border=true&area=true" width="100%"/>
+05  Document what you build.
 
-</div>
+06  Use AI to accelerate thinking — not replace it.
 
----
+07  Break things in controlled environments.
 
-# `// CURRENT OBJECTIVES`
+08  Keep learning.
 
-```text
-[████████████████████░░]  Cybersecurity
-[██████████████████░░░░]  Azure / Cloud
-[█████████████████░░░░░]  Networking
-[███████████████░░░░░░░]  Automation
-[██████████████░░░░░░░░]  DevOps
-```
+// CONNECT
+LET'S BUILD SOMETHING.
+<br>
 
-* 🎓 Complete BSc Network & Security
-* ☁️ Expand Azure infrastructure skills
-* 🔐 Build practical cybersecurity projects
-* 🌐 Build advanced networking labs
-* ⚙️ Automate infrastructure with PowerShell & Python
-* 🚀 Build and document real-world projects
-
----
-
-<div align="center">
-
-### `SYSTEM STATUS: ONLINE`
-
-```text
+<br>
 TRISTAN//OPS
-────────────────────────────────────────────
-NETWORK        [ ONLINE ]
-CLOUD          [ ONLINE ]
-SECURITY       [ ACTIVE ]
-AUTOMATION     [ BUILDING ]
-────────────────────────────────────────────
-```
 
-**Build. Break. Secure. Repeat.**
+CYBERSECURITY × CLOUD × INFRASTRUCTURE × AI
+
+SYSTEM STATUS: ● ONLINE
+<br>
+
+The future belongs to people who build it.
 
 </div>
