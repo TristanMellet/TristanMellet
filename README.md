@@ -209,6 +209,8 @@ I learn by building.
 
 Modernise a real business environment while improving:
 
+**📂 Full project case study:** [Acrusure-Website-2026](https://github.com/TristanMellet/Acrusure-Website-2026)
+
 - Reliability
 - Security
 - Maintainability
